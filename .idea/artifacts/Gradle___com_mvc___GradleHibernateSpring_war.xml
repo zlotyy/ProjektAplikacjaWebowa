@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.mvc : GradleHibernateSpring.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="GradleHibernateSpring.war">
+      <element id="artifact" artifact-name="Gradle : com.mvc : GradleHibernateSpring.war (exploded)" />
+    </root>
+  </artifact>
+</component>
